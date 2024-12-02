@@ -1,2 +1,2 @@
 line1 Initial content
-line2 This will be changed
+This is the change in the main branch
